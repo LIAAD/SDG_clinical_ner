@@ -33,7 +33,7 @@ Clone the repo and install dependencies:
 
 ```bash
 git clone https://github.com/LIAAD/SDG_clinical_ner
-cd your-repo-name
+cd SDG_clinical_ner
 pip install -r requirements.txt
 ```
 
